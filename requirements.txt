@@ -1,0 +1,13 @@
+pandas
+matplotlib
+scikit-image
+keras==2.2.4
+tensorflow-gpu==1.12.0
+pillow
+scipy
+imutils
+IPython[all]
+opencv-contrib-python
+setuptools==41.0.0
+numpy==1.16.5
+tqdm
