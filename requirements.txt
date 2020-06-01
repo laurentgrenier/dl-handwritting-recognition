@@ -11,3 +11,5 @@ opencv-contrib-python
 setuptools==41.0.0
 numpy==1.16.5
 tqdm
+jupyterlab
+ipywidgets
